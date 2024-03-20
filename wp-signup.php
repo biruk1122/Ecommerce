@@ -8,7 +8,6 @@ add_filter( 'wp_robots', 'wp_robots_no_robots' );
 require __DIR__ . '/wp-blog-header.php';
 
 nocache_headers();
-
 if ( is_array( get_site_option( 'illegal_names' ) ) && isset( $_GET['new'] ) && in_array( $_GET['new'], get_site_option( 'illegal_names' ), true ) ) {
 	wp_redirect( network_home_url() );
 	die();
