@@ -25,7 +25,6 @@
 				<label for="user_login">Username or Email Address</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username">
 			</p>
-
 			<div class="user-pass-wrap">
 				<label for="user_pass">Password</label>
 				<div class="wp-pwd">
