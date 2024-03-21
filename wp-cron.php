@@ -15,7 +15,6 @@
  *
  * @package WordPress
  */
-
 ignore_user_abort( true );
 
 /* Don't make the request block till we finish, if possible. */
