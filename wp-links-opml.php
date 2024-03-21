@@ -21,7 +21,6 @@ if ( ! empty( $_GET['link_cat'] ) ) {
 		$link_cat = absint( (string) urldecode( $link_cat ) );
 	}
 }
-
 echo '<?xml version="1.0"?' . ">\n";
 ?>
 <opml version="1.0">
