@@ -10,7 +10,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	die( '-1' );
 }
-
 $widgets_access = get_user_setting( 'widgets_access' );
 if ( isset( $_GET['widgets-access'] ) ) {
 	check_admin_referer( 'widgets-access' );
