@@ -8,7 +8,6 @@
 
 /** WordPress Administration Bootstrap */
 require_once __DIR__ . '/admin.php';
-
 if ( is_multisite() ) {
 	if ( ! current_user_can( 'create_users' ) && ! current_user_can( 'promote_users' ) ) {
 		wp_die(
