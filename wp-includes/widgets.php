@@ -17,7 +17,6 @@
  * @subpackage Widgets
  * @since 2.2.0
  */
-
 //
 // Global Variables.
 //
