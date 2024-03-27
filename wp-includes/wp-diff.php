@@ -7,7 +7,6 @@
  * @package WordPress
  * @subpackage Diff
  */
-
 if ( ! class_exists( 'Text_Diff', false ) ) {
 	/** Text_Diff class */
 	require ABSPATH . WPINC . '/Text/Diff.php';
