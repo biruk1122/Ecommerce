@@ -5,7 +5,6 @@
  * @package WordPress
  * @subpackage Users
  */
-
 /**
  * Authenticates and logs a user in with 'remember' capability.
  *
