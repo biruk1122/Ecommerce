@@ -5,7 +5,6 @@
  * @package WordPress
  * @subpackage Template
  */
-
 /**
  * Retrieve path to a template
  *
