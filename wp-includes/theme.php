@@ -5,7 +5,6 @@
  * @package WordPress
  * @subpackage Theme
  */
-
 /**
  * Returns an array of WP_Theme objects based on the arguments.
  *
