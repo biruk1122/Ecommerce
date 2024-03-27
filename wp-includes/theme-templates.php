@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Sets a custom slug when creating auto-draft template parts.
  *
