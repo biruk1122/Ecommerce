@@ -5,7 +5,6 @@
  * @package WordPress
  * @since 2.3.0
  */
-
 /**
  * Check WordPress version against the newest version.
  *
