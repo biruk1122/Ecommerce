@@ -8,7 +8,6 @@
  * @subpackage Database
  * @since 0.71
  */
-
 /**
  * @since 0.71
  */
